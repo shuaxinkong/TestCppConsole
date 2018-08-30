@@ -1,0 +1,11 @@
+﻿  mian.cpp
+d:\zt\documents\sync\c++\testcppconsole\testcppconsole\mian.cpp(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+d:\zt\documents\sync\c++\testcppconsole\testcppconsole\mian.cpp(18): warning C4172: returning address of local variable or temporary
+d:\zt\documents\sync\c++\testcppconsole\testcppconsole\mian.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+d:\zt\documents\sync\c++\testcppconsole\testcppconsole\mian.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+d:\zt\documents\sync\c++\testcppconsole\testcppconsole\mian.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+  TestCppConsole.vcxproj -> D:\Zt\Documents\SYNC\C++\TestCppConsole\Debug\TestCppConsole.exe
